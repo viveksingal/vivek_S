@@ -118,14 +118,14 @@ hr {
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #f3ca27;
+	color: #1663BB;
 }
 .on {
 	background-color: #032731 !important;
 	padding: 0 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #f3ca27 !important;
+	color: #1663BB !important;
 	background-color: transparent;
 }
 .navbar-toggle {
@@ -185,7 +185,7 @@ header p {
 }
 /* Services Section */
 #services-section {
-	padding: 80px 0 100px 0;
+	padding: 80px 0 15px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#032731+0,032e3a+20,032e3a+100,032731+100 */
 	background: rgb(3,39,49); /* Old browsers */
 	background: -moz-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* FF3.6-15 */
@@ -200,7 +200,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032731', end
 }
 
 #services-section hr {
-	background: #1565C0;
+	background: #1663BB;
 }
 .space {
 	margin-top: 40px;
@@ -666,6 +666,11 @@ label {
 @media (max-width: 360px) {
 .hover-bg .hover-text {
 	padding: 22% 10%;
+}
+
+
+.navbar i {
+    color: #1565C0;
 }
 
 
