@@ -9,7 +9,7 @@ h1 {
 }
 
 .heroname{
-	font-weight: 300;
+	font-weight: 700;
 }
 
 h1 strong {
@@ -389,7 +389,7 @@ ol.type li a:hover {
 	margin-bottom: 30px;
 }
 .portfolio-modal .close-modal {
-	position: absolute;
+	position: fixed;
 	top: 25px;
 	right: 25px;
 	width: 75px;
