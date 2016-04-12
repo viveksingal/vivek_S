@@ -38,7 +38,7 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #f1c40f;
+	color: #fff;
 }
 .img-centered {
 	margin: 0 auto;
@@ -571,7 +571,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1a618', end
 	padding: 30px 0;
 }
 #contact-section .fa {
-	color: #f8e287;
+	color: #1976D2;
 	margin-bottom: 10px;
 }
 label {
@@ -653,10 +653,16 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: #032731;
 	padding: 15px 0 10px 0;
 	color: #42626b;
-	text-align: center;
+	
 }
 #footer p {
 	margin-top: 10px;
+	padding-left: 30px;
+}
+
+#footer a{
+	float: right;
+	padding-left: 10px;
 }
 
 @media (max-width: 768px) {
