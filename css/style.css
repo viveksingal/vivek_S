@@ -187,7 +187,7 @@ header p {
 	transition: all 0.5s;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	background-color: #c1a618;
+	background-color: #ffffff;
 }
 /* Services Section */
 #services-section {
@@ -274,10 +274,10 @@ ol.type li a {
 	border-radius: 3px;
 }
 ol.type li a.active {
-	background: #f7dc6f;
+	background: #fff;
 }
 ol.type li a:hover {
-	background: #f7dc6f;
+	background: #fff;
 }
 .isotope-item {
 	z-index: 2
