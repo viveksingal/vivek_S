@@ -10,6 +10,7 @@ h1 {
 
 .heroname{
 	font-weight: 700;
+	color: #fff;
 }
 
 h1 strong {
@@ -20,7 +21,7 @@ h2 {
 	margin: 0;
 }
 h3 {
-	font-size: 16px;
+	font-size: 16px
 	font-weight: 700;
 }
 h5 {
@@ -691,6 +692,10 @@ label {
 
 .navbar i {
     color: #1565C0;
+}
+
+.navname{
+	float: left;
 }
 
 
