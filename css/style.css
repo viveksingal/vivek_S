@@ -359,7 +359,7 @@ ol.type li a:hover {
 	opacity: 1;
 }
 .portfolio-modal .modal-content {
-	padding: 100px 0;
+	padding:0px 0;
 	min-height: 100%;
 	border: 0;
 	border-radius: 0;
@@ -367,7 +367,7 @@ ol.type li a:hover {
 	background-clip: border-box;
 	-webkit-box-shadow: none;
 	box-shadow: none;
-	background: #EEEEEE;
+	background: #ffffff;
 }
 .portfolio-modal .modal-content h2 {
 	margin-bottom: 15px;
@@ -375,11 +375,13 @@ ol.type li a:hover {
 }
 .portfolio-modal .modal-content p {
 	margin-bottom: 30px;
+	text-align: left;
 }
 .portfolio-modal .modal-content p.item-intro {
 	margin: 10px 0 30px;
 	font-size: 14px;
 	font-style: italic;
+	text-align: center;
 }
 .portfolio-modal .modal-content ul.list-inline {
 	margin-top: 0;
@@ -693,6 +695,9 @@ label {
     color: #1565C0;
 }
 
-
+ .row{
+	    margin-right: -105px;
+    margin-left: -105px;
+}
 
 
