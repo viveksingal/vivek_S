@@ -10,6 +10,7 @@ h1 {
 
 .heroname{
 	font-weight: 700;
+	color: #fff;
 }
 
 h1 strong {
@@ -20,7 +21,7 @@ h2 {
 	margin: 0;
 }
 h3 {
-	font-size: 16px;
+	font-size: 16px
 	font-weight: 700;
 }
 h5 {
@@ -695,10 +696,7 @@ label {
     color: #1565C0;
 }
 
- .row{
-	    margin-right: -105px;
-    margin-left: -105px;
-}
+
 
 .company img{
 	height: 200px;
